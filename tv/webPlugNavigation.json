@@ -1,7 +1,5 @@
 {
   "data": [
-{
-  "data": [
     {
       "name": "Gimy",
       "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
@@ -18,8 +16,6 @@
       "webOpen": true,
       "click": true
     }
-  ]
-}
     {
       "name": "94神马(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
