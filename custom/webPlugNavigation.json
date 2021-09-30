@@ -1,5 +1,3 @@
-{
-  "data": [
     {
       "name": "Gimy",
       "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
@@ -16,5 +14,3 @@
       "webOpen": true,
       "click": true
     }
-  ]
-}
