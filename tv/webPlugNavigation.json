@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "name": "Gimy",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
+      "ads": "",
+      "webUrl": "https://gimy.app/",
+      "webOpen": true,
+      "click": true
+    },
+{
       "name": "桔子TV",
       "pic": "https://tlgur.com/d/Gbk3j2yg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
